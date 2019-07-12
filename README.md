@@ -1,4 +1,4 @@
-![My image](username.github.com/repository/img/image.jpg)
+![My image](https://github.com/dvinun/tic-toc-toe/blob/master/screenshot.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
